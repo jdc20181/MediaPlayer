@@ -8,13 +8,13 @@ Will be compiled inside of my Browser project as a feature.
 
 # Feature List
 
-- Audio Support^
+- Audio Support
 
-- Video Support^
+- Video Support
 
-- Image Support^
+- Image Support
 
- ^Some formats not supported in all Browsers. Media Player uses Gecko in BeffsBrowser and supports most file types.
+ Note: Some formats (e.g .Wav) not supported in all Browsers. Media Player uses Gecko in BeffsBrowser and supports most file types.
 
 
 # License
