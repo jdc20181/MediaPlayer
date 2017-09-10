@@ -17,6 +17,12 @@ Will be compiled inside of my Browser. Will be available as Source only here. Ma
  Note: Some formats (e.g .Wav) not supported in all Browsers. Media Player uses Gecko in BeffsBrowser and supports most file types.
 
 
+# Dependencies
+
+- Jquery
+
+
 # License
 
 MIT Licensed
+
