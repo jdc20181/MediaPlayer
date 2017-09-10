@@ -1,0 +1,28 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+</head>
+<body>
+<input type="file">
+<audio controls id="myAudio" autoplay></audio>
+</body>
+<script>
+var $audio = $('#myAudio');
+$('input').on('change', function(e) {
+  var target = e.currentTarget;
+  var file = target.files[0];
+  var reader = new FileReader();
+  
+  console.log($audio[0]);
+   if (target.files && file) {
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            $audio.attr('src', e.target.result);
+            $audio.play();
+        }
+        reader.readAsDataURL(file);
+    }
+});
+</script>
+</html>
