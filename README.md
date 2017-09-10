@@ -1,5 +1,5 @@
 # MediaPlayer
-A Media Player Suite in HTML5/JS/CSS - Play,  view Media files locally using HTML/CSS/JS Backend. 
+A Media Player Suite in HTML5/JS/CSS - Play, and view Media files locally using HTML/CSS/JS Backend. 
 
 # Coming soon!
 
@@ -14,7 +14,7 @@ Will be compiled inside of my Browser project as a feature.
 
 - Image Support*
 
-
+* Some formats not supported in all Browsers. Media Player uses Gecko in BeffsBrowser and supports most file types.
 
 
 # License
