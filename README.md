@@ -3,7 +3,7 @@ A Media Player Suite in HTML5/JS/CSS - Play, and view Media files locally using 
 
 # Coming soon!
 
-Will be compiled inside of my Browser project as a feature. 
+Will be compiled inside of my Browser. Will be available as Source only here. Maybe as a compiled release in the future.
 
 
 # Feature List
